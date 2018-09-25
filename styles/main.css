@@ -21,6 +21,10 @@ a {
   color: blue;
 }
 
+nav.container a {
+  color: white;
+}
+
 .container {
   width: 80%;
   padding-left: 1.5rem;
